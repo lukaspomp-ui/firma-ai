@@ -1,0 +1,6 @@
+Test automatické kontroly Claude + Codex přes GitHub.
+ID: firma-ai-auto-review-2026-11-22-unique
+Účel: nová revize v novém návrhu, bez ručního požadavku na kontrolu.
+Očekávaný výsledek: skutečný Codex bot zaznamená automatické spuštění a výsledek.
+Tento soubor je pouze testovací; návrh se po ověření uzavře bez sloučení.
+Trvalá evidence výsledku zůstává v úkolu #1 a v diskusi testovacího návrhu.
