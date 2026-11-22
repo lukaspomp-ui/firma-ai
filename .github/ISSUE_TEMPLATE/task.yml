@@ -1,0 +1,30 @@
+name: Pracovní úkol
+description: Zadání pro Claude a Codex
+title: "[Úkol] "
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Požadovaný výsledek
+      description: Co má být hotovo a pro koho?
+    validations:
+      required: true
+  - type: textarea
+    id: project
+    attributes:
+      label: Projekt a podklady
+      description: Odkaz na projekt a veřejné podklady. Neuvádějte hesla ani neveřejné údaje.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Kritéria přijetí
+      description: Podle čeho poznáme, že výsledek splňuje zadání?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Omezení a rozhodnutí
+      description: Co vyžaduje vaše rozhodnutí a co se smí změnit?
